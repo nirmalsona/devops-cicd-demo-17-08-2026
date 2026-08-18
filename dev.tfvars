@@ -12,7 +12,7 @@ rgs = {
    rg2 = {
 
 
-    name = "dev_rg1"
+    name = "dev_rg2"
 
     location = "central India"
   }
